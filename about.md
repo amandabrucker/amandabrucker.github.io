@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+### Hi! I'm a PhD student in Statistics at NCSU. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amanda.brucker@gmail.com](mailto:amanda.brucker@gmail.com)
